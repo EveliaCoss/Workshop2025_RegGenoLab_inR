@@ -10,10 +10,13 @@
   + Conceptos básicos de bioinformática y pseudocódigo (2023): [Presentación](https://eveliacoss.github.io/ViernesBioinfo2023/Clase1_22Sep2023/D1_Introduccion_slides.html#1) | [Github](https://github.com/EveliaCoss/ViernesBioinfo2023)
   + Información general del curso e Introducción a R (2024): [Presentación](https://eveliacoss.github.io/ViernesBioinfo2024/Clase1/D1_IntroduccionR_slides_P2.html#1) | [Github](https://github.com/EveliaCoss/ViernesBioinfo2024)
   + Manipulación de datos con R base (vector y dataframe) (2024): [Presentación](https://eveliacoss.github.io/ViernesBioinfo2024/Clase1/D2_IntroduccionR_segunda.html#1) | [Github](https://github.com/EveliaCoss/ViernesBioinfo2024)
+
+### Dia 2
+
   + Manipulación de datos con R base (matrix y lista) (2024): [Presentación](https://eveliacoss.github.io/ViernesBioinfo2024/Clase1/D3_ManipulacionDatos_P2.html#1) | [Github](https://github.com/EveliaCoss/ViernesBioinfo2024)
   + Workshop de Graficas Interactivas y articulos: [Webpage](https://eveliacoss.github.io/Workshop_GraficasInteractivas_papers/) | [Github](https://github.com/EveliaCoss/Workshop_GraficasInteractivas_papers)
 
-### Dia 2
+### Estudiar individual
 
   + Manipulación de datos con funciones de R base (2024): [Presentación](https://eveliacoss.github.io/ViernesBioinfo2024/Clase1/D6_ManipulacionDatos_FuncionesRbase.html#1) | [Github](https://github.com/EveliaCoss/ViernesBioinfo2024)
   + Manipulación de datos usando dplyr (2024): [Presentación](https://eveliacoss.github.io/ViernesBioinfo2024/Clase1/D7_Manipulacion_dplyr.html#1) | [Github](https://github.com/EveliaCoss/ViernesBioinfo2024)
