@@ -13,6 +13,7 @@
 
 ### Dia 2
 
+  + Manipulación de datos con R base (vector y dataframe) (2024): [Presentación](https://eveliacoss.github.io/ViernesBioinfo2024/Clase1/D2_IntroduccionR_segunda.html#1) | [Github](https://github.com/EveliaCoss/ViernesBioinfo2024)
   + Manipulación de datos con funciones de R base (2024): [Presentación](https://eveliacoss.github.io/ViernesBioinfo2024/Clase1/D6_ManipulacionDatos_FuncionesRbase.html#1) | [Github](https://github.com/EveliaCoss/ViernesBioinfo2024)
   + Manipulación de datos usando dplyr (2024): [Presentación](https://eveliacoss.github.io/ViernesBioinfo2024/Clase1/D7_Manipulacion_dplyr.html#1) | [Github](https://github.com/EveliaCoss/ViernesBioinfo2024)
   + Workshop de Graficas Interactivas y articulos: [Webpage](https://eveliacoss.github.io/Workshop_GraficasInteractivas_papers/) | [Github](https://github.com/EveliaCoss/Workshop_GraficasInteractivas_papers)
