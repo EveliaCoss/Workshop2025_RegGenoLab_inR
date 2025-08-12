@@ -1,5 +1,8 @@
 # Introducción a R
 
+- Instructtora: Evelia Coss
+- Fechas: 12 y 13 de agosto,  2025
+
 ##  Contenido:
 
 ### Dia 1
