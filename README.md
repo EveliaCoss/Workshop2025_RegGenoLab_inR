@@ -13,13 +13,13 @@
 
 ### Dia 2
 
-  + Manipulación de datos con R base (matrix y lista) (2024): [Presentación](https://eveliacoss.github.io/ViernesBioinfo2024/Clase1/D3_ManipulacionDatos_P2.html#1) | [Github](https://github.com/EveliaCoss/ViernesBioinfo2024)
++ Manipulación de datos con funciones de R base (2024): [Presentación](https://eveliacoss.github.io/ViernesBioinfo2024/Clase1/D6_ManipulacionDatos_FuncionesRbase.html#1) | [Github](https://github.com/EveliaCoss/ViernesBioinfo2024)
+  + Manipulación de datos usando dplyr (2024): [Presentación](https://eveliacoss.github.io/ViernesBioinfo2024/Clase1/D7_Manipulacion_dplyr.html#1) | [Github](https://github.com/EveliaCoss/ViernesBioinfo2024)
   + Workshop de Graficas Interactivas y articulos: [Webpage](https://eveliacoss.github.io/Workshop_GraficasInteractivas_papers/) | [Github](https://github.com/EveliaCoss/Workshop_GraficasInteractivas_papers)
 
 ### Estudiar individual
 
-  + Manipulación de datos con funciones de R base (2024): [Presentación](https://eveliacoss.github.io/ViernesBioinfo2024/Clase1/D6_ManipulacionDatos_FuncionesRbase.html#1) | [Github](https://github.com/EveliaCoss/ViernesBioinfo2024)
-  + Manipulación de datos usando dplyr (2024): [Presentación](https://eveliacoss.github.io/ViernesBioinfo2024/Clase1/D7_Manipulacion_dplyr.html#1) | [Github](https://github.com/EveliaCoss/ViernesBioinfo2024)
+  
   + El ABC de las funciones y loops en R (2023): [Presentación](https://eveliacoss.github.io/ViernesBioinfo2023/Clase5_20Oct2023/D5_Loop.html#1) | [Github](https://github.com/EveliaCoss/ViernesBioinfo2023)
   + Programacion defensiva con ggplot2 (2024): [Webpage](https://eveliacoss.github.io/Defensiva_ggplot2024/) | [Github](https://github.com/EveliaCoss/ViernesBioinfo2024_parte2)
   +  Git + Github (2025): [Webpage](https://eveliacoss.github.io/Workshop_GitGithub2025/) | [Github](https://github.com/VieRnesBioinformatica/ViernesBioinfo2025_parte3)
